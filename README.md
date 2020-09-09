@@ -14,6 +14,6 @@ However, there are some variables that have a higher p-value than 0.05, and ther
 It is also interesting that the dragon with the highest odds of victory is Air Drake.
 
 Future Works:
-More feature engineering should be performed
-Add more visualization plots
-Create a multiple linear regression model to find other underlying relationships
+More feature engineering should be performed.
+Add more visualization plots.
+Create a multiple linear regression model to find other underlying relationships.
