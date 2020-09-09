@@ -11,7 +11,7 @@ The results are expected as Baron kills and Towers destroyed correlate greatly t
 With Baron, teams are able to siege effectively and overwhelm the opponents. 
 Number of towers destroyed are expected to increase once the base is open. 
 However, there are some variables that have a higher p-value than 0.05, and therefore is insignificant. 
-It is also interesting that the dragon with the highest odds of victory is Air Drake.
+It is also interesting that the dragon with the highest odds of victory is the Air Dragon (commonly memed or ignored).
 
 Future Works:
 More feature engineering should be performed.
